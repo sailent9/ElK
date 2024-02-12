@@ -10,6 +10,7 @@
 
 ### Решение 1
 
+![image](https://github.com/sailent9/ElK/assets/130309754/e0943f7c-c0e2-40e6-880a-588a69c58b11)
 
 
 
@@ -33,6 +34,7 @@
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 
 ### Решение 2
+![image](https://github.com/sailent9/ElK/assets/130309754/2a1cf819-ea1d-4f13-bc24-888fca62e795)
 
 
 
@@ -53,6 +55,17 @@
 
 ### Решение 3
 
+![Задание-3](https://github.com/sailent9/ElK/assets/130309754/6984c061-871a-492c-9bb4-debc8ae9bcd7)
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### Задание 4. Filebeat. 
@@ -63,6 +76,7 @@
 
 
 ### Решение 4
+![Задание-4 1](https://github.com/sailent9/ElK/assets/130309754/6d135896-32ac-438f-aa94-2e1432a83936)
 
 
 
